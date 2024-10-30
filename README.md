@@ -1,4 +1,4 @@
-# Blinkit Sales Analysis Dashboard
+# Blinkit Sales Analysis Report
 
 ![Screenshot 2024-10-29 194323](https://github.com/user-attachments/assets/25adf539-e07a-4559-a73d-8a259c769676)
 
